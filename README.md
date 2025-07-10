@@ -1,6 +1,7 @@
 ## Olá 👋
 
- Meu Linkedin <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="thayuana" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/thayuana?trk=profile-badge">thayuana trindade</a></div>
-              
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 
 
